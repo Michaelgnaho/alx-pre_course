@@ -1,2 +1,2 @@
 # My alx-pre_course Repository
-This is the root README file.
+This is my edited root README file.
