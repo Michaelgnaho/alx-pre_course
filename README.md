@@ -1,2 +1,2 @@
-This is my new edited file
+Wow, This is my new edited file
 
